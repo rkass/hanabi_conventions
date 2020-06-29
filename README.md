@@ -4,7 +4,7 @@ We do our best to follow [Hyphen-ated's Conventions](https://github.com/Zamiell/
 
 ## Good Touch Play
 
-If you're holding a subset cards such that if every card in this subset is useful (not trash), then at least one of your held cards is playable, you will play the left most of these held cards on the next turn after which your teammates have had a chance to correct this.
+If you're holding a subset cards such that if every card in this subset is useful (not trash), then at least one of your held cards is playable, you will play the left most card of this subset held on the first turn after which your teammates have had a chance to correct this.
 
 ### Example
 
