@@ -13,11 +13,9 @@ If you're holding a subset cards such that if every card in this subset is usefu
 - Ryan discards
 - Aly plays her slot 1 which turned out to be a blue 3
 
-If Matt and Ryan had a chance to correct these moves and did not, on the next turn Aly is expected play her slot 2, then on the following turn she's expected to play her slot 3.
+On the next turn Aly is expected to play her slot 2 card, then on the following turn she's expected to play her slot 3.
 
-### Clarification
-
-##### What does it mean to have had a chance to correct the move?
+### What does it mean to have had a chance to correct the move?
 
 Did a turn pass where a teammate of yours could have given you a clue without letting a teammate dump a critical card?
 
