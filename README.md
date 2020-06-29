@@ -29,4 +29,4 @@ When you receive a color play clue on a newly clued card that turns out to be ra
 - Aly has a rainbow 1 in slot 1 and a green 3 in slot 4. Slot 4 has previously been clued as a green card.
 - Ryan gives Aly a clue about 2 green cards.
 - Matt discards
-- Aly plays her slot 1 and discovers it's a rainbow 1. At this point she thinks to herself, I wonder why Ryan chose green? She then realizes that he was also trying to get he to play he green 3 in slot 4, so she correctly labels this card a `rainbow 2 or green 3`.
+- Aly plays her slot 1 and discovers it's a rainbow 1. At this point she thinks to herself, I wonder why Ryan chose green? She then realizes that he was also trying to get he to play he green 3 in slot 4, so she correctly labels this card as `rainbow 2 or green 3`.
