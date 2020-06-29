@@ -21,7 +21,7 @@ Did a turn pass where a teammate of yours could have given you a clue without le
 
 ## Rainbow Prompt 
 
-When you receive a color play clue on a newly clued card that turns out to be rainbow, and this clue also touches cards that you were holding that aren't confirmed rainbow, play the leftmost of these cards on the next turn/
+When you receive a color play clue on a newly clued card that turns out to be rainbow, and this clue also touches cards that you were holding that aren't confirmed rainbow, play the leftmost of these cards on the next turn.
 
 ### Example
 
