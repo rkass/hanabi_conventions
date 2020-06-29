@@ -1,6 +1,6 @@
 # Conventions
 
-We do our best to follow these https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md . Below are the ways where we might deviate.
+We do our best to follow [Hyphen-ated's Conventions](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md). Below are additions and deviations.
 
 ## Good Touch Play
 
