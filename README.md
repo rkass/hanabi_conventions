@@ -44,10 +44,3 @@ However, there may be a case where the cascade "diverges". For example:
 ![Cascading Self-Lie](/images/cascading_self_lie.png)
 
 Assuming a similar scenario above, Matt gets the clue about one 3 and plays his slot 1 in the finesse spot. On his next turn, he assumes that his "cascaded" finesse spot (now slot 2) is the yellow 2, since that's what would be needed to connect the previous play to the clued card. However, it is actually a red 1. At this point, we say that the cascade "diverges", because Matt played a red 1 and a yellow 1, which make progress towards different 3's. Matt should no longer cascade any further (i.e. stop playing finesse cards). In this example, it just so happens that he could keep playing and it would work out nicely. However, the cards will usually not line up so nicely, an and we'd need a clue to correct if Matt decided to keep playing.
-
-
-
-
-
-
-
