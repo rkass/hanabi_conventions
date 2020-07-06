@@ -31,16 +31,41 @@ When you receive a color play clue on a newly clued card that turns out to be ra
 - Matt discards
 - Aly plays her slot 1 and discovers it's a rainbow 1. At this point she thinks to herself, I wonder why Ryan chose green? She then realizes that he was also trying to get he to play he green 3 in slot 4, so she correctly labels this card as `rainbow 2 or green 3`.
 
-## Cascading Self-Prompt/Finesse vs. Self-Bluff
+## Elimination Assumptions
 
-Our convention permits a cascading self-prompt or self-finesse. For example:
+[This section](https://github.com/Zamiell/hanabi-conventions/blob/master/Reference.md#discard-elimination--elimination-notes--the-elimination-blind-play)
+talks about what assumptions a player can make after discarding an important card (anything playable or a needed 2). In the linked conventions,
+the player who discards should assume that one of their cards is a duplicate of the card they discarded. Our conventions differ in that we
+assume that the card in the now chop is this card.
 
-![Cascading Self-Finesse](/images/cascading_self_finesse.png)
+### Example
 
-Assuming empty stacks, Matt gets clued about one 3. He sees that it is not playable and nobody else has any cards that will make progress towards a 3. Matt plays his finesse spot, which is the red 1. The 3 is not yet playable, nor does anyone have a 2, so Matt will cascade the finesse to his slot 2.
+- On the stacks is a green 2
+- Ryan discards a green 3
+- On Ryan's next turn, he correctly plays the chop as the green 3.
 
-However, there may be a case where the cascade "diverges". For example:
+### Example
 
-![Cascading Self-Lie](/images/cascading_self_lie.png)
+- On the stacks is a green 2
+- Ryan discards a green 3
+- On Ryan's next turn, he correctly plays the chop as the red 1.
+- On Ryan's next turn, he correctly plays the chop as the green 3.
 
-Assuming a similar scenario above, Matt gets the clue about one 3 and plays his slot 1 in the finesse spot. On his next turn, he assumes that his "cascaded" finesse spot (now slot 2) is the red 2, since that's what would be needed to connect the previous play to the clued card. However, it is actually a red 1. At this point, we say that the cascade "diverges", because Matt played a red 1 and a yellow 1, which make progress towards different 3's. Matt should no longer cascade any further (i.e. stop playing finesse cards). In this example, it just so happens that he could keep playing and it would work out nicely. However, the cards will usually not line up so nicely, an and we'd need a clue to correct if Matt decided to keep playing.
+### Example
+
+- On the stacks is a green 2
+- Ryan has green 3, blue 4, green 3 in slots 3, 4, and 5 respectively
+- Ryan discards a green 3
+- Matt now tells Ryan about one 4 in his chop. Good thing he did, or else Ryan would've incorrectly played this card.
+Ryan now shifts his thinking to assuming that his green 3 is in slot 4 (one over from the chop).
+- On Ryan's next turn, he correctly plays green 3 from slot 4.
+
+### Example
+
+- Nothing on the stacks
+- Ryan discards green 2 and picks up a green 1
+- Ryan assumes his now chop is a green 2, or else his teammates never would've let him discard a 2.
+- Aly clues Ryan about one 1
+- Matt discards
+- Ryan plays the green 1. Seeing that his 1 is gree, Ryan resolves to play his chop card which he previously labeled as the green 2 on the next turn.
+
