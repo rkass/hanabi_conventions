@@ -8,7 +8,7 @@ If you're holding a subset cards such that if every card in this subset is usefu
 
 ### Example
 
-- In a normal variant game, on the stacks there is a blue 2
+- In a no variant game, on the stacks there is a blue 2
 - Matt gives Aly a clue about four blue cards in slots 1, 2, 3, and 4
 - Ryan discards
 - Aly plays her slot 1 which turned out to be a blue 3
